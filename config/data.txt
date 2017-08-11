@@ -1,0 +1,2688 @@
+{
+    "data": {
+        "Acer": [
+            {
+                "author": "zhangxiang1985",
+                "createTime": "2016-6-18",
+                "tid": "1696455",
+                "title": "[分享]E5-572g安装分享，我只是搬运工",
+                "uid": "4785210"
+            },
+            {
+                "author": "张耀泽",
+                "createTime": "2016-7-17",
+                "tid": "1701565",
+                "title": "[分享]Acer4750G安装Sierra成功，分享",
+                "uid": "4023569"
+            },
+            {
+                "author": "keyabing520",
+                "createTime": "2016-9-27",
+                "tid": "1718684",
+                "title": "[分享][完美安装原版苹果系统]Acer S3  MS2346 安装Sierra成功",
+                "uid": "4803412"
+            },
+            {
+                "author": "deadbull",
+                "createTime": "2016-10-2",
+                "tid": "1719747",
+                "title": "[分享]Acer VN7-591G-50LW 安装MacOS Sierra 10.12 （实现睡眠、小太阳、变频和屏蔽显卡）",
+                "uid": "45275"
+            },
+            {
+                "author": "939872740",
+                "createTime": "2016-10-5",
+                "tid": "1720175",
+                "title": "[分享]acer E1-571G 安装macOS Sierra 成功，分享驱动",
+                "uid": "3699313"
+            },
+            {
+                "author": "怂人加农炮",
+                "createTime": "2016-10-15",
+                "tid": "1721901",
+                "title": "[教程]Acer Aspire V5-473G/573G 屏蔽独显的方法及EFI分享",
+                "uid": "3694326"
+            },
+            {
+                "author": "iris20082010",
+                "createTime": "2016-10-21",
+                "tid": "1722945",
+                "title": "[分享]Acer 4741G  macOS Sierra 安装及使用报告",
+                "uid": "2977179"
+            },
+            {
+                "author": "610110707",
+                "createTime": "2016-11-1",
+                "tid": "1724567",
+                "title": "[分享]宏碁Aspire 5820tg成功安装Sierra 10.12.1 分享驱动 EFI",
+                "uid": "1409755"
+            },
+            {
+                "author": "393563938",
+                "createTime": "2016-11-9",
+                "tid": "1725963",
+                "title": "[原创内容]Acer V5-572 On Sierra",
+                "uid": "1471967"
+            },
+            {
+                "author": "tsepangching",
+                "createTime": "2016-12-14",
+                "tid": "1729029",
+                "title": "[分享]Acer V3-471G成功升级10.12.2正式版",
+                "uid": "2451983"
+            },
+            {
+                "author": "377172423",
+                "createTime": "2017-1-5",
+                "tid": "1730423",
+                "title": "[分享]宏基E5-572g 77SG10.12基本完美交流分享",
+                "uid": "3225483"
+            },
+            {
+                "author": "xiaobaileshi",
+                "createTime": "2017-1-20",
+                "tid": "1731628",
+                "title": "[分享]Acer TMP236-M-52Z1 安装 OS X10.12.2终于成功",
+                "uid": "4622035"
+            },
+            {
+                "author": "Smile小景",
+                "createTime": "2017-2-8",
+                "tid": "1732723",
+                "title": "[分享]Acer4750G安装Sierra10.12.3成功，分享驱动引导和工具",
+                "uid": "2964569"
+            },
+            {
+                "author": "fwjt11",
+                "createTime": "2017-2-24",
+                "tid": "1733761",
+                "title": "[分享]老笔记本宏碁4741g驱动Intel一代集显QE/CI BIOS+Clover+GPT原版10.12.2安装分享",
+                "uid": "2581331"
+            },
+            {
+                "author": "hneyyy",
+                "createTime": "2017-5-31",
+                "tid": "1743414",
+                "title": "[分享]Acer 4750G安装10.12.5",
+                "uid": "723680"
+            },
+            {
+                "author": "tsepangching",
+                "createTime": "2017-6-7",
+                "tid": "1744330",
+                "title": "[交流]宏碁v3-471g 安装10.13基本完美",
+                "uid": "2451983"
+            },
+            {
+                "author": "冷月断花魂",
+                "createTime": "2017-6-7",
+                "tid": "1744402",
+                "title": "[分享]ACER T5000驱动分享",
+                "uid": "3092336"
+            },
+            {
+                "author": "落尘之木",
+                "createTime": "2017-6-10",
+                "tid": "1745017",
+                "title": "[分享]Acer 4750G 安装10.13 体验",
+                "uid": "4613148"
+            },
+            {
+                "author": "litaocomet",
+                "createTime": "2017-6-21",
+                "tid": "1746676",
+                "title": "[教程]Acer swift 3 蜂鸟轻薄笔记本安装10.12.5指南（i5-7200u+hd620+94352z）交流分享",
+                "uid": "841441"
+            },
+            {
+                "author": "momojack",
+                "createTime": "2017-6-22",
+                "tid": "1746891",
+                "title": "[分享]i7 4702笔记本 安装 10.12.5 基本完美 附相关驱动 还有触摸板手势",
+                "uid": "1862875"
+            },
+            {
+                "author": "丝袜男人",
+                "createTime": "2017-7-8",
+                "tid": "1749060",
+                "title": "[下载]宏碁AcerE5-573G Intel HD5500 10.12.X配置文件分享",
+                "uid": "1913573"
+            },
+            {
+                "author": "myd2898129",
+                "createTime": "2017-7-18",
+                "tid": "1750254",
+                "title": "[分享]Acer swift 3（SF314-51）i5-7200u hd620 94360CS2完美安装10.12.5",
+                "uid": "3020287"
+            },
+            {
+                "author": "mqforever",
+                "createTime": "2017-7-25",
+                "tid": "1751121",
+                "title": "[原创内容]acer v3-572g-51mr成功啃上黑苹果 70%完美",
+                "uid": "4822717"
+            },
+            {
+                "author": "mqforever",
+                "createTime": "2017-7-27",
+                "tid": "1751308",
+                "title": "[原创内容]acer-v3-572g-51mr 10.12.6黑苹果最终版（完结）",
+                "uid": "4822717"
+            },
+            {
+                "author": "flyinroc",
+                "createTime": "2017-7-31",
+                "tid": "1751903",
+                "title": "[分享]宏碁V5-573G完美升级至macOS Sierra 10.12.6",
+                "uid": "1049335"
+            },
+            {
+                "author": "小咚咚2015",
+                "createTime": "2017-8-1",
+                "tid": "1752111",
+                "title": "[原创内容]acer tmp 248笔记本安装macOS Sierra成功！",
+                "uid": "4751010"
+            },
+            {
+                "author": "小虎hdj",
+                "createTime": "2017-8-6",
+                "tid": "1752727",
+                "title": "[分享]Acer V5471G成功安装Mac 10.12.5",
+                "uid": "4510116"
+            }
+        ],
+        "Asus": [
+            {
+                "author": "machwf",
+                "createTime": "2016-6-19",
+                "tid": "1696696",
+                "title": "[分享]华硕A550VB顺利吃上MacOS Sierra",
+                "uid": "4665569"
+            },
+            {
+                "author": "leafsme",
+                "createTime": "2016-6-29",
+                "tid": "1698411",
+                "title": "[分享]ZX50jx4200 装上 Sierra12 clover分享 教程链接附上",
+                "uid": "4687409"
+            },
+            {
+                "author": "zsy6271",
+                "createTime": "2016-7-19",
+                "tid": "1702026",
+                "title": "[原创内容]华硕x550vc的10.12完美过程！！！",
+                "uid": "4708833"
+            },
+            {
+                "author": "关云长羽",
+                "createTime": "2016-9-22",
+                "tid": "1716123",
+                "title": "[分享]华硕V551LN4510从10.11.6覆盖升级10.12成功，经验及文件分享",
+                "uid": "4763750"
+            },
+            {
+                "author": "烨煜穹崖",
+                "createTime": "2016-9-24",
+                "tid": "1716416",
+                "title": "[分享]华硕A550jk4200安装10.12，90%完美",
+                "uid": "4725605"
+            },
+            {
+                "author": "leafsme",
+                "createTime": "2016-9-25",
+                "tid": "1718260",
+                "title": "[分享]华硕zx50jx Sierra正式版镜像及Clover分享",
+                "uid": "4687409"
+            },
+            {
+                "author": "jinyutang",
+                "createTime": "2016-10-3",
+                "tid": "1719913",
+                "title": "[分享]华硕A550jk4200安装macOS Sierra 完美95%！",
+                "uid": "82938"
+            },
+            {
+                "author": "zero816",
+                "createTime": "2016-10-11",
+                "tid": "1721309",
+                "title": "[分享]华硕a450j 10.12 dsdt 驱动分享",
+                "uid": "4771186"
+            },
+            {
+                "author": "发如雪2013",
+                "createTime": "2016-10-12",
+                "tid": "1721435",
+                "title": "[原创内容]发帖子好难啊，华硕zx50jx4200原版10.12安装过程分享",
+                "uid": "4020844"
+            },
+            {
+                "author": "小花布",
+                "createTime": "2016-10-14",
+                "tid": "1721708",
+                "title": "[分享]华硕K56cm/A56cm-95%完美安装macOS Sierra  10.12(16A323)",
+                "uid": "450109"
+            },
+            {
+                "author": "高玉龙",
+                "createTime": "2016-10-19",
+                "tid": "1722509",
+                "title": "[原创内容]华硕S550CM 分享",
+                "uid": "4327188"
+            },
+            {
+                "author": "qubn",
+                "createTime": "2016-10-22",
+                "tid": "1723029",
+                "title": "[分享]ASUS W419L笔记本 90%",
+                "uid": "85406"
+            },
+            {
+                "author": "asiba",
+                "createTime": "2016-11-1",
+                "tid": "1724679",
+                "title": "[分享]华硕X550CC驱动clover",
+                "uid": "4578674"
+            },
+            {
+                "author": "Starstok",
+                "createTime": "2016-11-3",
+                "tid": "1724898",
+                "title": "[原创内容]华硕 N551JW-4720安装MacOS Sierra完成度90%",
+                "uid": "4694948"
+            },
+            {
+                "author": "ltx7795",
+                "createTime": "2016-11-10",
+                "tid": "1726194",
+                "title": "[分享]ASUS S400ca VivoBook安装MacOS Sierra 12.1基本完善",
+                "uid": "866383"
+            },
+            {
+                "author": "xiaoshengzi",
+                "createTime": "2016-11-18",
+                "tid": "1727346",
+                "title": "[分享]华硕，k550j升级10.12.1成功，分享驱动",
+                "uid": "144242"
+            },
+            {
+                "author": "普兰特",
+                "createTime": "2016-11-18",
+                "tid": "1727532",
+                "title": "[分享]华硕飞行堡垒FX50J 基本完美黑苹果分享 macOS Sierra 10.12",
+                "uid": "4810923"
+            },
+            {
+                "author": "炎龙影视",
+                "createTime": "2016-11-23",
+                "tid": "1728261",
+                "title": "[分享]macOS Sierra 10.12.1华硕z170-ar完美驱动",
+                "uid": "1862010"
+            },
+            {
+                "author": "ge887",
+                "createTime": "2016-12-17",
+                "tid": "1729255",
+                "title": "[分享]华硕 Y450CC安装macOS Sierra10.12.2原版基本完美",
+                "uid": "3382874"
+            },
+            {
+                "author": "豪客大人",
+                "createTime": "2016-12-19",
+                "tid": "1729337",
+                "title": "[原创内容]华硕u303UB6200坎坷升级10.12.2",
+                "uid": "3783511"
+            },
+            {
+                "author": "supperbatman",
+                "createTime": "2016-12-25",
+                "tid": "1729705",
+                "title": "[分享]【圣诞好礼】华硕ZX50JX4720安装原版os x 10.12资料分享",
+                "uid": "80107"
+            },
+            {
+                "author": "Jazryn759",
+                "createTime": "2016-12-25",
+                "tid": "1729723",
+                "title": "[分享]华硕N56VZ 安装10.12成功",
+                "uid": "2829670"
+            },
+            {
+                "author": "qiqisa",
+                "createTime": "2016-12-29",
+                "tid": "1729975",
+                "title": "[分享]华硕A501Lb黑苹果安装教程",
+                "uid": "4154311"
+            },
+            {
+                "author": "lovest.fdh",
+                "createTime": "2017-1-27",
+                "tid": "1732044",
+                "title": "[交流]分享华硕asus k55vd_i5+神舟k580s-i7 d0&amp;k610c-i3 d1驱动dsdt",
+                "uid": "4199986"
+            },
+            {
+                "author": "一桶天下008",
+                "createTime": "2017-2-14",
+                "tid": "1733143",
+                "title": "[原创内容]Asus ZenBook Pro UX501VW - macOS Sierra",
+                "uid": "3046799"
+            },
+            {
+                "author": "957835322",
+                "createTime": "2017-3-2",
+                "tid": "1734165",
+                "title": "[原创内容]ASUS X555LJ MacOs 10.12.3 99%完美",
+                "uid": "2860442"
+            },
+            {
+                "author": "957835322",
+                "createTime": "2017-3-2",
+                "tid": "1734201",
+                "title": "[分享]华硕R557LI Sierra 99% 完美",
+                "uid": "2860442"
+            },
+            {
+                "author": "2582576569",
+                "createTime": "2017-3-5",
+                "tid": "1734439",
+                "title": "[分享]华硕a455lf5200安装seirra 10.12.3成功分享配置",
+                "uid": "4811518"
+            },
+            {
+                "author": "Alex.sachin",
+                "createTime": "2017-3-8",
+                "tid": "1734697",
+                "title": "[分享]分享华硕A550JK EFI以及我使用的Hotpatch，睡眠休眠无问题",
+                "uid": "4779145"
+            },
+            {
+                "author": "neroxps",
+                "createTime": "2017-3-9",
+                "tid": "1734770",
+                "title": "[分享]华硕 VM510L EFI 分享 9CC3笔记本主板芯片通用",
+                "uid": "633916"
+            },
+            {
+                "author": "neroxps",
+                "createTime": "2017-3-9",
+                "tid": "1734798",
+                "title": "[分享]华硕 VM510L EFI 分享 9CC3笔记本主板芯片通用",
+                "uid": "633916"
+            },
+            {
+                "author": "0987363",
+                "createTime": "2017-3-13",
+                "tid": "1735128",
+                "title": "[教程]华硕ZX50系列装MacOS Sierra 10.12",
+                "uid": "11219"
+            },
+            {
+                "author": "JPING",
+                "createTime": "2017-3-18",
+                "tid": "1735659",
+                "title": "[分享]Asus华硕 A45/K45 vd 再次升级10.12 分享驱动和经验还有问题讨论",
+                "uid": "4396305"
+            },
+            {
+                "author": "wsgh",
+                "createTime": "2017-3-18",
+                "tid": "1735666",
+                "title": "[分享]我的华硕K550JK笔记本黑苹果之路",
+                "uid": "2875591"
+            },
+            {
+                "author": "myd2898129",
+                "createTime": "2017-3-19",
+                "tid": "1735744",
+                "title": "[分享]宏基V5-471G（i5-3337U，710M）安装成功分享",
+                "uid": "3020287"
+            },
+            {
+                "author": "jianxun521",
+                "createTime": "2017-3-20",
+                "tid": "1735822",
+                "title": "[教程]华硕UX501JW基本完美 安装及驱动详细过程分享【多链接】",
+                "uid": "2179403"
+            },
+            {
+                "author": "ylw1280426581",
+                "createTime": "2017-3-21",
+                "tid": "1735958",
+                "title": "[分享]华硕s400成功安装10.12",
+                "uid": "1888371"
+            },
+            {
+                "author": "神的职场",
+                "createTime": "2017-4-5",
+                "tid": "1737257",
+                "title": "[交流]华硕zenbook ux330uak安装10.12.2正常使用",
+                "uid": "3030950"
+            },
+            {
+                "author": "juzehuan",
+                "createTime": "2017-4-9",
+                "tid": "1737859",
+                "title": "[分享]华硕 X555LD ，历时7天，终于接近98%，特来分享",
+                "uid": "4646268"
+            },
+            {
+                "author": "jwlpeng",
+                "createTime": "2017-4-27",
+                "tid": "1739604",
+                "title": "[分享]U4000UQ安装成功，与大家分享",
+                "uid": "4285912"
+            },
+            {
+                "author": "wp8student",
+                "createTime": "2017-5-17",
+                "tid": "1741155",
+                "title": "[分享]华硕N551JM4710安装10.12.5配置文件",
+                "uid": "4673939"
+            },
+            {
+                "author": "qiqisa",
+                "createTime": "2017-5-20",
+                "tid": "1741487",
+                "title": "[教程]ASUS ZeenBook U4000UQK成功安装OS 10.12.5",
+                "uid": "4154311"
+            },
+            {
+                "author": "流年逝水",
+                "createTime": "2017-5-29",
+                "tid": "1743170",
+                "title": "[分享]华硕x550vc变色龙引导配置文件",
+                "uid": "4812562"
+            },
+            {
+                "author": "winny452816",
+                "createTime": "2017-6-1",
+                "tid": "1743502",
+                "title": "[分享]华硕A56CM macOS Sierra 10.12.5 完美clover4079驱动",
+                "uid": "1326858"
+            },
+            {
+                "author": "athlonreg",
+                "createTime": "2017-6-8",
+                "tid": "1744630",
+                "title": "[分享]华硕F455L 接近完美分享",
+                "uid": "157829"
+            },
+            {
+                "author": "athlonreg",
+                "createTime": "2017-6-8",
+                "tid": "1744630",
+                "title": "[分享]华硕F455L 接近完美分享",
+                "uid": "157829"
+            },
+            {
+                "author": "2582576569",
+                "createTime": "2017-6-10",
+                "tid": "1744951",
+                "title": "[分享]华硕a455lf5200安装10.13成功，特来分享",
+                "uid": "4811518"
+            },
+            {
+                "author": "wp8student",
+                "createTime": "2017-6-13",
+                "tid": "1745433",
+                "title": "[分享]华硕N551J4710安装使用10.12.5全文件",
+                "uid": "4673939"
+            },
+            {
+                "author": "jxou",
+                "createTime": "2017-6-18",
+                "tid": "1746369",
+                "title": "[分享]zx50jx4200安装10.13成功，分享efi文件",
+                "uid": "4772304"
+            },
+            {
+                "author": "yangjianasfsdg",
+                "createTime": "2017-7-8",
+                "tid": "1749088",
+                "title": "[分享]华硕 zx50jk4200 Clover 10.12.5 基本完美",
+                "uid": "3490394"
+            },
+            {
+                "author": "chileshen",
+                "createTime": "2017-7-15",
+                "tid": "1749945",
+                "title": "[分享]华硕A43SV安装10.12.5成功，分享给需要的人",
+                "uid": "4082370"
+            },
+            {
+                "author": "1103315853",
+                "createTime": "2017-7-18",
+                "tid": "1750224",
+                "title": "[分享][华硕GL502VM/S5VM]10.12.5接近完美&amp;工具一站式下载6700hq+alc255+elan",
+                "uid": "4099558"
+            },
+            {
+                "author": "wangshoqi",
+                "createTime": "2017-7-28",
+                "tid": "1751656",
+                "title": "[分享]华硕z170i 6700k 吃上黑苹果，特来分享",
+                "uid": "4376497"
+            },
+            {
+                "author": "zhaoshaox",
+                "createTime": "2017-8-8",
+                "tid": "1753055",
+                "title": "[分享]华硕zx50vw6700（gl552vw6700） 安装10.12.5文件分享",
+                "uid": "4630484"
+            }
+        ],
+        "Dell": [
+            {
+                "author": "moshuixin123",
+                "createTime": "2016-6-18",
+                "tid": "1696322",
+                "title": "[分享]Dell M6500 macOS Sierra 升级成功",
+                "uid": "1311460"
+            },
+            {
+                "author": "Dismxq",
+                "createTime": "2016-6-18",
+                "tid": "1696405",
+                "title": "[分享]笔记本I5-6200u+hd520成功装上10.12",
+                "uid": "4791430"
+            },
+            {
+                "author": "p3181625",
+                "createTime": "2016-7-28",
+                "tid": "1703654",
+                "title": "[原创内容]Dell 15r 3542成功走上Sierra之路",
+                "uid": "4647342"
+            },
+            {
+                "author": "178937068",
+                "createTime": "2016-8-19",
+                "tid": "1709778",
+                "title": "[分享]dell xps15 9550 安装sierra",
+                "uid": "3385384"
+            },
+            {
+                "author": "nemoxy",
+                "createTime": "2016-9-8",
+                "tid": "1713462",
+                "title": "[分享]戴尔灵越17系列dell7737 hd4400显卡 clover引导成功安装macOS Sierra",
+                "uid": "4803630"
+            },
+            {
+                "author": "tanpengsccd",
+                "createTime": "2016-9-22",
+                "tid": "1715862",
+                "title": "[分享][20160921]Dell Latitude E5430 vpro－10.11.6 －90%完成",
+                "uid": "4113735"
+            },
+            {
+                "author": "Bynce",
+                "createTime": "2016-9-23",
+                "tid": "1716269",
+                "title": "[分享]XPS13 9350 安装macOS Sierra 成功",
+                "uid": "195941"
+            },
+            {
+                "author": "gprsyw",
+                "createTime": "2016-9-25",
+                "tid": "1718289",
+                "title": "[分享]dell Latitude 3340 安装Sierra 基本完美！",
+                "uid": "752125"
+            },
+            {
+                "author": "Bynce",
+                "createTime": "2016-9-26",
+                "tid": "1718457",
+                "title": "[分享]XPS9350 安装系统简要方法",
+                "uid": "195941"
+            },
+            {
+                "author": "拉登哥哥",
+                "createTime": "2016-9-26",
+                "tid": "1718593",
+                "title": "[原创内容]dell 3437 macOS Sierra 成功。",
+                "uid": "4175542"
+            },
+            {
+                "author": "时间会变白",
+                "createTime": "2016-10-1",
+                "tid": "1719585",
+                "title": "[分享]DELL灵越3543 HD5500 安装10.12，80%完美，最新驱动及软件分享",
+                "uid": "4714511"
+            },
+            {
+                "author": "swjsys",
+                "createTime": "2016-10-3",
+                "tid": "1719848",
+                "title": "[分享]戴尔7447 i5-4210H HD4600 近乎完美10.12分享",
+                "uid": "1194856"
+            },
+            {
+                "author": "aqthd",
+                "createTime": "2016-10-11",
+                "tid": "1721243",
+                "title": "[分享]Alienware18  安装10.12达成 各驱动完美。",
+                "uid": "2382"
+            },
+            {
+                "author": "yuanwai0312",
+                "createTime": "2016-10-18",
+                "tid": "1722411",
+                "title": "[分享]DELL XPS 13 9493 1508驱动及dsdt分享",
+                "uid": "2427947"
+            },
+            {
+                "author": "shoopyx",
+                "createTime": "2016-10-19",
+                "tid": "1722551",
+                "title": "[教程]戴尔V11P 7130系列黑苹果教程",
+                "uid": "4619649"
+            },
+            {
+                "author": "cgfather",
+                "createTime": "2016-10-21",
+                "tid": "1722899",
+                "title": "[分享]Dell Latitude E7440双硬盘安装黑苹果macOS Sierra11.12,WIN7成功,基本完美堪称白苹果",
+                "uid": "1125625"
+            },
+            {
+                "author": "kenlin132",
+                "createTime": "2016-10-22",
+                "tid": "1723070",
+                "title": "[分享]dell vostro 3450 征服 sierra 的篇章--80%驱动完成",
+                "uid": "4744225"
+            },
+            {
+                "author": "991817",
+                "createTime": "2016-10-23",
+                "tid": "1723162",
+                "title": "[分享]dell3421 i3版安装macOS Sierra",
+                "uid": "4674050"
+            },
+            {
+                "author": "yuanwai0312",
+                "createTime": "2016-10-28",
+                "tid": "1724116",
+                "title": "[分享]今天很高兴，更新安装10.12.1成功，分享下DELLxps13 9493 1508安装情况",
+                "uid": "2427947"
+            },
+            {
+                "author": "yeye632",
+                "createTime": "2016-11-8",
+                "tid": "1725754",
+                "title": "[分享]dell 15r 5537",
+                "uid": "1000293"
+            },
+            {
+                "author": "lx19925252",
+                "createTime": "2016-11-20",
+                "tid": "1727766",
+                "title": "[分享]XPS 15 9550黑苹果安装成功，分享EFI",
+                "uid": "3151186"
+            },
+            {
+                "author": "周霖浩",
+                "createTime": "2016-12-9",
+                "tid": "1728763",
+                "title": "[分享]戴尔灵越15系列dell5537hd4400显卡 clover引导成功安装macOS Sierra",
+                "uid": "2708044"
+            },
+            {
+                "author": "nsthy",
+                "createTime": "2016-12-24",
+                "tid": "1729649",
+                "title": "[分享]Alienware 17(m17x r5) 99%完美驱动 el+macos",
+                "uid": "3347759"
+            },
+            {
+                "author": "awpmylove",
+                "createTime": "2016-12-29",
+                "tid": "1729927",
+                "title": "[分享]Dell-14-5480驱动分享！",
+                "uid": "4314905"
+            },
+            {
+                "author": "设为主页",
+                "createTime": "2017-1-2",
+                "tid": "1730172",
+                "title": "[分享]【7代i5】Dell-Ins-7460(燃7000) i5 7200U 安装分享",
+                "uid": "3480519"
+            },
+            {
+                "author": "tna_sky",
+                "createTime": "2017-1-8",
+                "tid": "1730591",
+                "title": "[分享]dell 燃7000  i5-7200u 安装成功，分享EFI",
+                "uid": "4573939"
+            },
+            {
+                "author": "neroxps",
+                "createTime": "2017-1-12",
+                "tid": "1730967",
+                "title": "[交流]【新人】Dell Inspiron 14z 5423 吃 Sierra 90%",
+                "uid": "633916"
+            },
+            {
+                "author": "dev04",
+                "createTime": "2017-1-17",
+                "tid": "1731446",
+                "title": "[原创内容]DELL 5510 安装macOS Sierra",
+                "uid": "1553690"
+            },
+            {
+                "author": "carlerge",
+                "createTime": "2017-1-24",
+                "tid": "1731885",
+                "title": "[教程]xps 13 9360成功安装sierra",
+                "uid": "4811337"
+            },
+            {
+                "author": "angelkyo",
+                "createTime": "2017-1-25",
+                "tid": "1731970",
+                "title": "[分享]---Dell 7447 整套Clover配置分享（BCM94352Z，蓝牙，亮度调节，休眠，AppleHDA）--",
+                "uid": "348255"
+            },
+            {
+                "author": "全王大大",
+                "createTime": "2017-1-27",
+                "tid": "1732056",
+                "title": "[分享]新年快乐，分享一下7559 i7版的引导文件",
+                "uid": "4810600"
+            },
+            {
+                "author": "lvdream",
+                "createTime": "2017-2-3",
+                "tid": "1732411",
+                "title": "[分享]Dell Latitude E5430 安装10.12.2经验分享",
+                "uid": "117978"
+            },
+            {
+                "author": "虚无爱",
+                "createTime": "2017-3-4",
+                "tid": "1734386",
+                "title": "[原创内容]xps9350 12.3最简单详细的黑果教程",
+                "uid": "1380847"
+            },
+            {
+                "author": "a-m",
+                "createTime": "2017-3-6",
+                "tid": "1734547",
+                "title": "[交流]DELL飞匣3000系列 Ins14C-4528B (i5-5200U 4G 500G GT920M)安装摘要：",
+                "uid": "1351500"
+            },
+            {
+                "author": "866134",
+                "createTime": "2017-4-6",
+                "tid": "1737499",
+                "title": "[分享]戴尔14R-7420，10.12.4，90%",
+                "uid": "626119"
+            },
+            {
+                "author": "a719031256",
+                "createTime": "2017-4-16",
+                "tid": "1738609",
+                "title": "[原创内容]dell v5460搞定10.12.4原版",
+                "uid": "2456058"
+            },
+            {
+                "author": "ostudy",
+                "createTime": "2017-4-17",
+                "tid": "1738731",
+                "title": "[分享]Latitude E7250 安装Sierra之Clover文件分享",
+                "uid": "614142"
+            },
+            {
+                "author": "MachineM",
+                "createTime": "2017-4-28",
+                "tid": "1739694",
+                "title": "[教程]Dell 3449 安装macOS Sierra 成功！！！！！分享EFI...DSDT等文件",
+                "uid": "718159"
+            },
+            {
+                "author": "fengju917",
+                "createTime": "2017-5-12",
+                "tid": "1740693",
+                "title": "[分享]燃7000 14寸 i7 7460 128g 10.12.3 EFI分享",
+                "uid": "4812262"
+            },
+            {
+                "author": "时空慢步",
+                "createTime": "2017-5-29",
+                "tid": "1743092",
+                "title": "[分享]DELL 成就VOSTRO 5459 i7-6500u 1080p安装10.12.5分享",
+                "uid": "4299608"
+            },
+            {
+                "author": "多啦CC梦",
+                "createTime": "2017-5-31",
+                "tid": "1743399",
+                "title": "[分享]i5版戴尔游匣7559黑苹果文件分享",
+                "uid": "4654869"
+            },
+            {
+                "author": "orange1206",
+                "createTime": "2017-6-11",
+                "tid": "1745031",
+                "title": "[教程]DELL 7559 i5-6300HQ成功UEFI+GPT安装10.12.5",
+                "uid": "4805033"
+            },
+            {
+                "author": "triton21",
+                "createTime": "2017-6-12",
+                "tid": "1745269",
+                "title": "[分享]7代U笔记本 dell 燃7000 安装10.13成功，附上config",
+                "uid": "3523885"
+            },
+            {
+                "author": "MagicMie",
+                "createTime": "2017-6-20",
+                "tid": "1746508",
+                "title": "[分享]【翻译】Dell XPS13-9360 (2016) Sierra-10.12.2",
+                "uid": "1996468"
+            },
+            {
+                "author": "metatronz",
+                "createTime": "2017-6-24",
+                "tid": "1747190",
+                "title": "[分享] DELL5421+Sierra10.12.5(完成度95%)多图 分享与求助",
+                "uid": "4565741"
+            },
+            {
+                "author": "1208733578",
+                "createTime": "2017-6-28",
+                "tid": "1747794",
+                "title": "[分享]Dell Inspiron 7537 10.12.1一路升级到10.13没有任何问题",
+                "uid": "4774851"
+            },
+            {
+                "author": "zxd915",
+                "createTime": "2017-7-4",
+                "tid": "1748491",
+                "title": "[分享]XPS 9550 遇上serria 10.12.5",
+                "uid": "1146521"
+            },
+            {
+                "author": "ngfchl",
+                "createTime": "2017-7-21",
+                "tid": "1750575",
+                "title": "[分享]Dell7537安装成功",
+                "uid": "813112"
+            },
+            {
+                "author": "codemoon",
+                "createTime": "2017-7-27",
+                "tid": "1751493",
+                "title": "[教程]XPS15 9550 macOS High Sierra 教程",
+                "uid": "1616297"
+            },
+            {
+                "author": "Mr_Pan",
+                "createTime": "2017-7-28",
+                "tid": "1751548",
+                "title": "[原创内容]precision 5510 e3-1505m hd p530 可以说基本完美",
+                "uid": "4284746"
+            },
+            {
+                "author": "Dawn_every",
+                "createTime": "2017-7-28",
+                "tid": "1751569",
+                "title": "[分享]DELL 3437 macOS Sierra接近完美",
+                "uid": "2313326"
+            },
+            {
+                "author": "燕子窝",
+                "createTime": "2017-8-1",
+                "tid": "1752002",
+                "title": "[交流]DELL XPS13 9343Sierra 基本可用",
+                "uid": "208460"
+            },
+            {
+                "author": "水德灵感子",
+                "createTime": "2017-8-10",
+                "tid": "1753253",
+                "title": "[教程]戴尔dell xps12 9q23成功吃上黑苹果",
+                "uid": "4812481"
+            }
+        ],
+        "HP": [
+            {
+                "author": "wxwsl",
+                "createTime": "2016-9-18",
+                "tid": "1715161",
+                "title": "[分享]惠普g4-2112tx安装10.12 16A201w 80%完成",
+                "uid": "243767"
+            },
+            {
+                "author": "hzj790351393",
+                "createTime": "2016-9-23",
+                "tid": "1716367",
+                "title": "[分享] clover 3761使用硬盘安装懒人版macos 10.12（惠普9480M）成功",
+                "uid": "4763435"
+            },
+            {
+                "author": "onlyklong",
+                "createTime": "2016-10-4",
+                "tid": "1720049",
+                "title": "[分享]HP G4-1058TX安装10.12成功",
+                "uid": "2504355"
+            },
+            {
+                "author": "takenaway",
+                "createTime": "2016-11-10",
+                "tid": "1726152",
+                "title": "[分享]HP Pavilion 15 E066TX 从10.11升级到10.12",
+                "uid": "39883"
+            },
+            {
+                "author": "calmtv",
+                "createTime": "2016-11-26",
+                "tid": "1728386",
+                "title": "[分享]【申请加入集合贴】惠普“暗影精灵 I代 飞翔版” 99%完美施工分享",
+                "uid": "1419606"
+            },
+            {
+                "author": "794767404",
+                "createTime": "2016-12-15",
+                "tid": "1729147",
+                "title": "[分享]暗影精灵2成功装上Sierra 12.2正式版",
+                "uid": "1619547"
+            },
+            {
+                "author": "y010204025",
+                "createTime": "2016-12-22",
+                "tid": "1729515",
+                "title": "[分享]2570P macOS Sierra EFI引导文件",
+                "uid": "2995416"
+            },
+            {
+                "author": "518hl",
+                "createTime": "2017-1-1",
+                "tid": "1730129",
+                "title": "[分享]hp1015cnEFI 能运行10.12.2啦",
+                "uid": "1626723"
+            },
+            {
+                "author": "y010204025",
+                "createTime": "2017-1-11",
+                "tid": "1730914",
+                "title": "[分享]2570P安装macOS Sierra 10.12.2成功",
+                "uid": "2995416"
+            },
+            {
+                "author": "z1324988831",
+                "createTime": "2017-1-16",
+                "tid": "1731391",
+                "title": "[分享]HP G4笔记本的CLOVER r3974(最新版本)",
+                "uid": "3183110"
+            },
+            {
+                "author": "hzj790351393",
+                "createTime": "2017-2-5",
+                "tid": "1732569",
+                "title": "[分享]惠普光影精灵2 6代i7 67oohq安装成功基本完美",
+                "uid": "4763435"
+            },
+            {
+                "author": "交叠的暗黑",
+                "createTime": "2017-2-18",
+                "tid": "1733358",
+                "title": "[教程]惠普2560p成功驱动暂记",
+                "uid": "3467796"
+            },
+            {
+                "author": "y010204025",
+                "createTime": "2017-3-28",
+                "tid": "1736525",
+                "title": "[交流]2570p完美升级10.12.4",
+                "uid": "2995416"
+            },
+            {
+                "author": "763190097",
+                "createTime": "2017-4-6",
+                "tid": "1737482",
+                "title": "[分享]hp envy14-j104tx(i7 6700hq)黑苹果成功升级到10.12.4",
+                "uid": "4775950"
+            },
+            {
+                "author": "唐传慧",
+                "createTime": "2017-4-8",
+                "tid": "1737761",
+                "title": "[下载]惠普pavilion15 ab297tx 的配置文件，基本完美",
+                "uid": "4811712"
+            },
+            {
+                "author": "sleepnet",
+                "createTime": "2017-5-15",
+                "tid": "1740926",
+                "title": "[分享]惠普440G4成功安装macOS Sierra 10.12.4，附上教程",
+                "uid": "4444090"
+            },
+            {
+                "author": "黑主辉阎",
+                "createTime": "2017-5-18",
+                "tid": "1741190",
+                "title": "[分享]惠普暗影精灵2PLUS 安装10.12.5 资源分享",
+                "uid": "4045009"
+            },
+            {
+                "author": "dumpling333333",
+                "createTime": "2017-5-19",
+                "tid": "1741439",
+                "title": "[分享]惠普G32-201TX笔记本Sierra完善之旅",
+                "uid": "618905"
+            },
+            {
+                "author": "hahadown",
+                "createTime": "2017-5-20",
+                "tid": "1741533",
+                "title": "[分享]暗黑精灵 初安装",
+                "uid": "455434"
+            },
+            {
+                "author": "lostwolf",
+                "createTime": "2017-5-25",
+                "tid": "1742550",
+                "title": "[分享]暗影精灵2代Pro安装macOS Sierra全记录",
+                "uid": "636400"
+            },
+            {
+                "author": "kcwong0750",
+                "createTime": "2017-6-6",
+                "tid": "1744219",
+                "title": "[分享]hp ENVY dv4 5314tx 成功安装macOS Sierra 10.12.5",
+                "uid": "4819342"
+            },
+            {
+                "author": "Change_Y",
+                "createTime": "2017-6-25",
+                "tid": "1747354",
+                "title": "[分享]惠普 pavilion 15 r221tx安装10.12.5配置文件分享及心得，90%完美。",
+                "uid": "4812001"
+            },
+            {
+                "author": "wsttdb0819",
+                "createTime": "2017-6-25",
+                "tid": "1747414",
+                "title": "[分享]惠普畅游人14-ba048TX",
+                "uid": "4598595"
+            },
+            {
+                "author": "qingdaer",
+                "createTime": "2017-7-24",
+                "tid": "1750968",
+                "title": "[分享]惠普HP Envy15 J系列 完美EFI",
+                "uid": "3878728"
+            },
+            {
+                "author": "cholj",
+                "createTime": "2017-7-29",
+                "tid": "1751690",
+                "title": "[分享]惠普 envy17 3070nr 黑频果 成功 dsdt kext 分享！HM65 2670qm hd3000",
+                "uid": "4337726"
+            },
+            {
+                "author": "飞天超音速",
+                "createTime": "2017-8-2",
+                "tid": "1752136",
+                "title": "[分享]惠普 HP Probook 430G3 終於趨於完美（10.12.6）",
+                "uid": "3705871"
+            }
+        ],
+        "Hasee": [
+            {
+                "author": "s13339960679",
+                "createTime": "2016-6-15",
+                "tid": "1696061",
+                "title": "[交流]K610c I7 D2 升级SIERRA成功",
+                "uid": "4570706"
+            },
+            {
+                "author": "ic005k",
+                "createTime": "2016-6-20",
+                "tid": "1696895",
+                "title": "[分享]【20160728更新】神舟K500C 10.12资源分享",
+                "uid": "4583288"
+            },
+            {
+                "author": "rlyt",
+                "createTime": "2016-8-4",
+                "tid": "1705637",
+                "title": "[分享]p650re 神州 战神 z7 sl7s4 \bosx 10.11.6 分享，\b独显970m可驱动。。。\b",
+                "uid": "685159"
+            },
+            {
+                "author": "kfwang90",
+                "createTime": "2016-9-24",
+                "tid": "1716550",
+                "title": "[分享]【神舟k470p i7 d3 安装masOS记录贴",
+                "uid": "4377405"
+            },
+            {
+                "author": "l892125565",
+                "createTime": "2016-9-24",
+                "tid": "1716575",
+                "title": "[分享]【HASEE 神舟战神 K650C I7 D2】macOS Sierra 10.12 引导，安装，完美配置，分享",
+                "uid": "3331319"
+            },
+            {
+                "author": "7878www",
+                "createTime": "2016-10-3",
+                "tid": "1719835",
+                "title": "[交流]神船k660d安装10.12原版基本完美",
+                "uid": "4717831"
+            },
+            {
+                "author": "change1wang73",
+                "createTime": "2016-10-12",
+                "tid": "1721500",
+                "title": "[分享]神舟战神Z8 i78172S1安装macOS Sierra成功，但还没完美，分享过程。",
+                "uid": "3190603"
+            },
+            {
+                "author": "applejunle",
+                "createTime": "2016-10-21",
+                "tid": "1722851",
+                "title": "[下载]神舟K580S i7 D0成功升级Mac10.12系统，90%完美。",
+                "uid": "2999206"
+            },
+            {
+                "author": "ym2008",
+                "createTime": "2016-10-29",
+                "tid": "1724142",
+                "title": "[原创内容]【驱动】神舟K580C-i7 D1 Sierra 更新帖（2016.10.29）",
+                "uid": "1742944"
+            },
+            {
+                "author": "心理学砖家",
+                "createTime": "2016-11-18",
+                "tid": "1727539",
+                "title": "[分享]神舟K480N.I7 D3安装10.12.1(MBR+变色龙)首发分享",
+                "uid": "3840983"
+            },
+            {
+                "author": "stevechen962464",
+                "createTime": "2016-11-20",
+                "tid": "1727798",
+                "title": "[分享]冬天到了。是时候更新一下黑苹果的配置了神舟K650CI7D3",
+                "uid": "4378502"
+            },
+            {
+                "author": "hzy0320",
+                "createTime": "2016-11-22",
+                "tid": "1728074",
+                "title": "[分享]神舟战神k650d i5 d1 黑苹果文件分享",
+                "uid": "4628660"
+            },
+            {
+                "author": "良宵花解语",
+                "createTime": "2016-12-12",
+                "tid": "1728913",
+                "title": "[分享]神舟战神z6d0成功吃上10.12.1",
+                "uid": "4811303"
+            },
+            {
+                "author": "hfduaiyf",
+                "createTime": "2016-12-31",
+                "tid": "1730075",
+                "title": "[分享]神舟k650d i5d2 安装10.12.1EFI文件分享",
+                "uid": "4811464"
+            },
+            {
+                "author": "ailick",
+                "createTime": "2016-12-31",
+                "tid": "1730097",
+                "title": "[分享]神船 K620c i7系列 10.12.x EFI分享 (元旦来袭)",
+                "uid": "4704294"
+            },
+            {
+                "author": "llwijvbw123",
+                "createTime": "2017-1-2",
+                "tid": "1730165",
+                "title": "[原创内容]神舟z6-i78154S2applealc.kext内、外置麦，内外扬声器正常",
+                "uid": "3578851"
+            },
+            {
+                "author": "haoran61",
+                "createTime": "2017-1-8",
+                "tid": "1730637",
+                "title": "[分享]神舟精盾 K580S-i7 D3安装黑苹果macOS Sierra 10.12.2  第二步 驱动篇",
+                "uid": "3393593"
+            },
+            {
+                "author": "haoran61",
+                "createTime": "2017-1-11",
+                "tid": "1730884",
+                "title": "[分享]神舟 k580s i7 d3 普通屏 上10.12.2安装+驱动完美=成功",
+                "uid": "3393593"
+            },
+            {
+                "author": "laibin2",
+                "createTime": "2017-1-15",
+                "tid": "1731276",
+                "title": "[分享]神舟k650d2升级成功，i7+hd4600",
+                "uid": "883695"
+            },
+            {
+                "author": "1849657779",
+                "createTime": "2017-1-18",
+                "tid": "1731482",
+                "title": "[原创内容]战神z7d2安装Sierra",
+                "uid": "4639382"
+            },
+            {
+                "author": "zhurong625",
+                "createTime": "2017-2-1",
+                "tid": "1732294",
+                "title": "[分享]神舟战神K610D i3 D2黑苹果资料分享",
+                "uid": "1543804"
+            },
+            {
+                "author": "CZM1122",
+                "createTime": "2017-2-4",
+                "tid": "1732466",
+                "title": "[分享]神州Z6-I78154S2成功吃上MacOS Sieera10.12",
+                "uid": "4792940"
+            },
+            {
+                "author": "7878www",
+                "createTime": "2017-2-9",
+                "tid": "1732819",
+                "title": "[分享]macOS10.12神舟k660d i7 d2 EFI文件分享",
+                "uid": "4717831"
+            },
+            {
+                "author": "jinyue_1995",
+                "createTime": "2017-2-9",
+                "tid": "1732838",
+                "title": "[分享]神舟k610c i5 d2，clover+uefi引导，可用efi文件，有需要的来拿。",
+                "uid": "4622714"
+            },
+            {
+                "author": "周汉先",
+                "createTime": "2017-2-10",
+                "tid": "1732908",
+                "title": "[分享]神州战神Z6SL7D1折腾之旅－60%完善度",
+                "uid": "4562058"
+            },
+            {
+                "author": "cosmos5200",
+                "createTime": "2017-2-13",
+                "tid": "1733069",
+                "title": "[分享]神舟k660 g4d1换U安装12.3成功，分享。。。",
+                "uid": "3758967"
+            },
+            {
+                "author": "Imposs",
+                "createTime": "2017-2-16",
+                "tid": "1733250",
+                "title": "[分享]K580S D0折腾两晚 终于吃上10.12 惯例庆祝 附EFI",
+                "uid": "2647175"
+            },
+            {
+                "author": "xuanhen2013",
+                "createTime": "2017-2-20",
+                "tid": "1733515",
+                "title": "[分享]神舟 G7-SL7S2 10.12.3 接近完美",
+                "uid": "4792416"
+            },
+            {
+                "author": "q89692825",
+                "createTime": "2017-3-3",
+                "tid": "1734272",
+                "title": "[分享]神州 战神 K610D I7 D4 98%完美！",
+                "uid": "874676"
+            },
+            {
+                "author": "交叠的暗黑",
+                "createTime": "2017-3-7",
+                "tid": "1734617",
+                "title": "[教程]神舟k580D成功驱动暂记",
+                "uid": "3467796"
+            },
+            {
+                "author": "haoran61",
+                "createTime": "2017-3-11",
+                "tid": "1734959",
+                "title": "[分享]神舟优雅X4-SL5S1无需一分钱变Macbook Pro 13.1苹果笔记本，mac系统+win10双系统",
+                "uid": "3393593"
+            },
+            {
+                "author": "GZX0",
+                "createTime": "2017-3-13",
+                "tid": "1735122",
+                "title": "[分享]k610c原版安装完整驱动",
+                "uid": "4628266"
+            },
+            {
+                "author": "sysguang",
+                "createTime": "2017-3-23",
+                "tid": "1736112",
+                "title": "[教程]神舟优雅A460-i3硬盘安装sierra 10.12.2（附驱动）",
+                "uid": "2665030"
+            },
+            {
+                "author": "suxrong",
+                "createTime": "2017-3-29",
+                "tid": "1736692",
+                "title": "[分享]神州  战神  k770e。黑苹果10.12.3EFI分享",
+                "uid": "4811612"
+            },
+            {
+                "author": "alsk1",
+                "createTime": "2017-4-10",
+                "tid": "1737912",
+                "title": "[分享]神舟k480n系列10.11~10.12.5",
+                "uid": "4179340"
+            },
+            {
+                "author": "maoyaotang",
+                "createTime": "2017-4-10",
+                "tid": "1737989",
+                "title": "[交流]战神k4极速版i5成功黑果，特分享文件",
+                "uid": "1885324"
+            },
+            {
+                "author": "天云12",
+                "createTime": "2017-5-8",
+                "tid": "1740406",
+                "title": "[分享]神舟Z6（i7 4720）接近完美",
+                "uid": "4803207"
+            },
+            {
+                "author": "hoping",
+                "createTime": "2017-5-13",
+                "tid": "1740780",
+                "title": "[分享]神舟Z6-SL7D1黑苹果分享",
+                "uid": "427990"
+            },
+            {
+                "author": "llwijvbw123",
+                "createTime": "2017-5-21",
+                "tid": "1741846",
+                "title": "[分享]战神Z6-i78154S2完美版EFI",
+                "uid": "3578851"
+            },
+            {
+                "author": "cheng123lc",
+                "createTime": "2017-5-22",
+                "tid": "1742157",
+                "title": "[分享]W650DC/DD/KK/KJ   10.12.5 黑苹果相关资料",
+                "uid": "2381403"
+            },
+            {
+                "author": "daggeryu1",
+                "createTime": "2017-6-3",
+                "tid": "1743723",
+                "title": "[原创内容]神舟k650d i5d3成功安装10.12",
+                "uid": "4814135"
+            },
+            {
+                "author": "busyluo",
+                "createTime": "2017-6-4",
+                "tid": "1743992",
+                "title": "[分享]神舟K650d i7 d2 安装10.12.5分享",
+                "uid": "4818578"
+            },
+            {
+                "author": "djydaw",
+                "createTime": "2017-6-9",
+                "tid": "1744726",
+                "title": "[分享]Intel3代，神舟A480N i7 d1成功clover安装10.12.5，99%完美！分享EFI和驱动和简要教程",
+                "uid": "4332532"
+            },
+            {
+                "author": "haoran61",
+                "createTime": "2017-6-9",
+                "tid": "1744834",
+                "title": "[分享]神舟优雅X4-SL5S1升级到10.12.5成功分享最新驱动",
+                "uid": "3393593"
+            },
+            {
+                "author": "djydaw",
+                "createTime": "2017-6-9",
+                "tid": "1744726",
+                "title": "[分享]Intel3代，神舟A480N i7 d1成功clover安装10.12.5，99%完美！分享EFI和驱动和简要教程",
+                "uid": "4332532"
+            },
+            {
+                "author": "haoran61",
+                "createTime": "2017-6-9",
+                "tid": "1744834",
+                "title": "[分享]神舟优雅X4-SL5S1升级到10.12.5成功分享最新驱动",
+                "uid": "3393593"
+            },
+            {
+                "author": "tomggx",
+                "createTime": "2017-6-10",
+                "tid": "1745012",
+                "title": "[原创内容]神舟战神K610D i7D4 黑苹果10.12.5，Win10双系统安装笔记",
+                "uid": "744319"
+            },
+            {
+                "author": "7878www",
+                "createTime": "2017-6-11",
+                "tid": "1745190",
+                "title": "[分享]神舟k660d i7 d2成功安装10.13",
+                "uid": "4717831"
+            },
+            {
+                "author": "rcssmaze",
+                "createTime": "2017-6-23",
+                "tid": "1747056",
+                "title": "[分享]z6-kp5s1",
+                "uid": "6535"
+            },
+            {
+                "author": "maoyaotang",
+                "createTime": "2017-6-25",
+                "tid": "1747320",
+                "title": "[分享]战神k4i5极速版接近完美的黑苹果分享",
+                "uid": "1885324"
+            },
+            {
+                "author": "haoran61",
+                "createTime": "2017-7-4",
+                "tid": "1748487",
+                "title": "[交流]神舟优雅x4折腾10.12.5全新安装心酸历程",
+                "uid": "3393593"
+            },
+            {
+                "author": "maoyaotang",
+                "createTime": "2017-7-11",
+                "tid": "1749450",
+                "title": "[分享]战神k4i5极速版百分之90接近度",
+                "uid": "1885324"
+            },
+            {
+                "author": "yybab3721",
+                "createTime": "2017-7-16",
+                "tid": "1750101",
+                "title": "[分享]W650DC/DD（神州K650D Gx，炫龙毁灭者DC/DD）成功吃上10.12.5,分享经验以及相关文件",
+                "uid": "4118065"
+            },
+            {
+                "author": "韩梓健",
+                "createTime": "2017-7-18",
+                "tid": "1750260",
+                "title": "[分享]神舟T6Ti-X7，80%完美",
+                "uid": "4126128"
+            },
+            {
+                "author": "q975361024",
+                "createTime": "2017-7-19",
+                "tid": "1750318",
+                "title": "[分享]战神z6 SL7D1 clover引导文件+配置文件",
+                "uid": "4818801"
+            },
+            {
+                "author": "yinaoxiong",
+                "createTime": "2017-7-22",
+                "tid": "1750785",
+                "title": "[交流]战神k610d i7 d2 sierra 98%完美安装",
+                "uid": "4820266"
+            },
+            {
+                "author": "xuezou",
+                "createTime": "2017-7-28",
+                "tid": "1751388",
+                "title": "[分享]神舟K640E i7 D1 Clover文件、声卡、常用软件分享",
+                "uid": "4814269"
+            }
+        ],
+        "Lenovo": [
+            {
+                "author": "updateing",
+                "createTime": "2016-6-19",
+                "tid": "1696574",
+                "title": "[分享]ThinkPad X230 更新 Sierra DP1 成功，附简述",
+                "uid": "64508"
+            },
+            {
+                "author": "39军小兵张",
+                "createTime": "2016-6-20",
+                "tid": "1696790",
+                "title": "[教程]联想Y410P El Capitan 10.11.5 升级macOS Sierra 10.12，黑苹果基本完美",
+                "uid": "4472739"
+            },
+            {
+                "author": "zhh2005757",
+                "createTime": "2016-6-22",
+                "tid": "1697125",
+                "title": "[分享]联想Z50-70完美啃上macOS 10.12 Sierra！",
+                "uid": "2012760"
+            },
+            {
+                "author": "123456_",
+                "createTime": "2016-6-23",
+                "tid": "1697383",
+                "title": "[交流]虐到不要不要的，ThinkPad E40安装macOS 10.12 Sierra(编辑中)",
+                "uid": "2783902"
+            },
+            {
+                "author": "kfc0013",
+                "createTime": "2016-6-25",
+                "tid": "1697645",
+                "title": "[分享]Lenovo e40 10.12",
+                "uid": "3805006"
+            },
+            {
+                "author": "lff520520",
+                "createTime": "2016-7-14",
+                "tid": "1700974",
+                "title": "[分享]thinkpad e550成功安装10.12",
+                "uid": "651986"
+            },
+            {
+                "author": "wxw213",
+                "createTime": "2016-7-15",
+                "tid": "1701067",
+                "title": "[分享]关于三代ThinkPad笔记本clover模式下完善历程",
+                "uid": "4299517"
+            },
+            {
+                "author": "cc0214vv",
+                "createTime": "2016-8-9",
+                "tid": "1706970",
+                "title": "[分享]Thinkpad L440 Clover安装体验macOS Sierra PB1 过程",
+                "uid": "3317996"
+            },
+            {
+                "author": "hnqychen2008",
+                "createTime": "2016-8-13",
+                "tid": "1708116",
+                "title": "[分享]Thinkpad T420 macOS Sierra 10.12 Beta (16A284a)完美安装",
+                "uid": "1092827"
+            },
+            {
+                "author": "hs9206",
+                "createTime": "2016-8-18",
+                "tid": "1709627",
+                "title": "[分享]近两周来的折腾，联想V4400黑苹果之路，持续更新（HD4600核显已驱动）",
+                "uid": "2299633"
+            },
+            {
+                "author": "MemX",
+                "createTime": "2016-8-23",
+                "tid": "1710605",
+                "title": "[原创内容]联想Yoga 13轻松安装Sierra(10.12)系统分享",
+                "uid": "4592702"
+            },
+            {
+                "author": "无此人",
+                "createTime": "2016-9-21",
+                "tid": "1715568",
+                "title": "[分享]ThinkPad E540成功安装macOS Sierra",
+                "uid": "420168"
+            },
+            {
+                "author": "1471122929",
+                "createTime": "2016-9-21",
+                "tid": "1715834",
+                "title": "[分享]Thinkpad E431 无痛升级10.12",
+                "uid": "1841222"
+            },
+            {
+                "author": "soik",
+                "createTime": "2016-9-22",
+                "tid": "1716055",
+                "title": "[分享]联想G470  clover efi 备份 mac10.12",
+                "uid": "3483686"
+            },
+            {
+                "author": "大程熙",
+                "createTime": "2016-9-25",
+                "tid": "1718235",
+                "title": "[分享]老机器，联想Z460安装成功。",
+                "uid": "1706028"
+            },
+            {
+                "author": "xm856718",
+                "createTime": "2016-9-25",
+                "tid": "1718357",
+                "title": "[分享]联想T520 clover efi 备份 mac10.12基本完美",
+                "uid": "4700248"
+            },
+            {
+                "author": "释怀如初",
+                "createTime": "2016-9-26",
+                "tid": "1718423",
+                "title": "[原创内容]联想y470N完美安装10.12和10.11，clove+mbr方式！",
+                "uid": "4806351"
+            },
+            {
+                "author": "gsion",
+                "createTime": "2016-9-27",
+                "tid": "1718664",
+                "title": "[分享]E431 10.11 10.12 驱动分享，除了wifi ， 一切完美，并且开启SIP",
+                "uid": "751619"
+            },
+            {
+                "author": "caico",
+                "createTime": "2016-9-28",
+                "tid": "1719006",
+                "title": "[分享]联想G450 20022 安装MacOS Sierra 10.12 懒人版",
+                "uid": "4671873"
+            },
+            {
+                "author": "unmat",
+                "createTime": "2016-9-28",
+                "tid": "1719022",
+                "title": "[分享]ThinkPad T420 macOS Sierra 10.12 安装全教程",
+                "uid": "3057226"
+            },
+            {
+                "author": "心情卡片",
+                "createTime": "2016-9-29",
+                "tid": "1719212",
+                "title": "[分享]T420S完美安装后驱动分享",
+                "uid": "171309"
+            },
+            {
+                "author": "宇翱",
+                "createTime": "2016-10-2",
+                "tid": "1719723",
+                "title": "[原创内容]联想Y480完美黑苹果折腾过程分享（10.12+变色龙+mbr分区）",
+                "uid": "4344688"
+            },
+            {
+                "author": "暮已晚",
+                "createTime": "2016-10-3",
+                "tid": "1719899",
+                "title": "[分享]联想昭阳e40-80安装macOS Sierra初步成功",
+                "uid": "2713604"
+            },
+            {
+                "author": "shiy05",
+                "createTime": "2016-10-4",
+                "tid": "1719938",
+                "title": "[分享]拯救者14-isk，i7-6700hq,GTX960M,10.11.6，98%完美",
+                "uid": "3044354"
+            },
+            {
+                "author": "2689255884",
+                "createTime": "2016-10-5",
+                "tid": "1720233",
+                "title": "[分享]联想Z500安装macOS Sierra 10.12目前90%完美",
+                "uid": "4126324"
+            },
+            {
+                "author": "marioma",
+                "createTime": "2016-10-6",
+                "tid": "1720333",
+                "title": "[教程]联想G410,90%完美吃上10.12",
+                "uid": "4738362"
+            },
+            {
+                "author": "hantangqipo",
+                "createTime": "2016-10-6",
+                "tid": "1720367",
+                "title": "[分享]ThinkPad E530c Clover引导Win+Mac+Ubuntu三系统分享，完成度95%，附驱动等",
+                "uid": "4273727"
+            },
+            {
+                "author": "rexx0520",
+                "createTime": "2016-10-9",
+                "tid": "1720945",
+                "title": "[分享]Lenovo 小新 Air 13 Pro基本完美",
+                "uid": "2759813"
+            },
+            {
+                "author": "猪猪酷爱",
+                "createTime": "2016-10-12",
+                "tid": "1721378",
+                "title": "[分享]lenovo小新13pro 完美登陆FaceTime iMessage",
+                "uid": "3933648"
+            },
+            {
+                "author": "18786678546",
+                "createTime": "2016-10-12",
+                "tid": "1721480",
+                "title": "[分享]联想G480成功安装上10.12",
+                "uid": "3793303"
+            },
+            {
+                "author": "realms",
+                "createTime": "2016-10-18",
+                "tid": "1722407",
+                "title": "[原创内容]联想G480安装macOS Sierra 10.12成功，分享配置文件及驱动！",
+                "uid": "691142"
+            },
+            {
+                "author": "liulonghuipcbet",
+                "createTime": "2016-10-23",
+                "tid": "1723133",
+                "title": "[教程]Y460A 成功安装OS X 10.12 Sierra",
+                "uid": "694528"
+            },
+            {
+                "author": "sschunlin",
+                "createTime": "2016-10-23",
+                "tid": "1723171",
+                "title": "[分享]g470 10.12 显卡，网卡，声卡驱动下载",
+                "uid": "4131181"
+            },
+            {
+                "author": "marioma",
+                "createTime": "2016-10-28",
+                "tid": "1724115",
+                "title": "[教程]【完美】98%联想E450C  除了无线网卡其他都完美",
+                "uid": "4738362"
+            },
+            {
+                "author": "alldestined",
+                "createTime": "2016-10-31",
+                "tid": "1724534",
+                "title": "[分享]联想Z41-70安装记录-HD5500",
+                "uid": "1877939"
+            },
+            {
+                "author": "shaoshaolove",
+                "createTime": "2016-11-4",
+                "tid": "1725119",
+                "title": "[分享]联想S210ideapad安装10.12",
+                "uid": "4063069"
+            },
+            {
+                "author": "shaoshaolove",
+                "createTime": "2016-11-14",
+                "tid": "1726770",
+                "title": "[分享]联想E40-80安装10.12 算小成功吧",
+                "uid": "4063069"
+            },
+            {
+                "author": "daliansky",
+                "createTime": "2016-11-19",
+                "tid": "1727585",
+                "title": "[分享]联想E47A/K27黑苹果10.12完整度90%",
+                "uid": "233039"
+            },
+            {
+                "author": "55飞",
+                "createTime": "2016-12-15",
+                "tid": "1729116",
+                "title": "[分享]联想G460专用EXTRA",
+                "uid": "4765205"
+            },
+            {
+                "author": "wjxwang",
+                "createTime": "2016-12-17",
+                "tid": "1729237",
+                "title": "[分享]ThinkPad X250 安装",
+                "uid": "1075108"
+            },
+            {
+                "author": "jinquan1234",
+                "createTime": "2016-12-19",
+                "tid": "1729344",
+                "title": "[分享]thinke450成功安装10.12.2.集显完美驱动",
+                "uid": "4763582"
+            },
+            {
+                "author": "简单旋律",
+                "createTime": "2016-12-20",
+                "tid": "1729404",
+                "title": "[分享]联想Y430p全新安装10.12.2成功，附EFI分享",
+                "uid": "1119518"
+            },
+            {
+                "author": "liuhengyuan",
+                "createTime": "2016-12-24",
+                "tid": "1729673",
+                "title": "[教程]联想老版拯救者14系列 i7版成功10.12.2 i5版也可以用",
+                "uid": "4807988"
+            },
+            {
+                "author": "lcw1009",
+                "createTime": "2016-12-29",
+                "tid": "1729935",
+                "title": "[原创内容]K29完美安装macOS 10.12",
+                "uid": "4596316"
+            },
+            {
+                "author": "starss747",
+                "createTime": "2017-1-4",
+                "tid": "1730301",
+                "title": "[原创内容]联想Y430p安装macOS Sierra 10.12.2成功，分享配置文件及驱动",
+                "uid": "4747888"
+            },
+            {
+                "author": "wlovez521",
+                "createTime": "2017-1-16",
+                "tid": "1731382",
+                "title": "[分享]T460/s 安装Sierra 10.12.2 成功分享……",
+                "uid": "1613479"
+            },
+            {
+                "author": "superbboy_2000",
+                "createTime": "2017-1-18",
+                "tid": "1731492",
+                "title": "[分享]T460s安装macOS Sierra 10.12.2成功",
+                "uid": "4606033"
+            },
+            {
+                "author": "M16螺丝钉",
+                "createTime": "2017-1-20",
+                "tid": "1731615",
+                "title": "[分享]【回报社会】联想G410全部驱动。",
+                "uid": "3046197"
+            },
+            {
+                "author": "sxxyjszxmzj",
+                "createTime": "2017-1-20",
+                "tid": "1731666",
+                "title": "[分享]7代i5 yoga 710-14 7200相对完美",
+                "uid": "30386"
+            },
+            {
+                "author": "lu8866168",
+                "createTime": "2017-1-20",
+                "tid": "1731683",
+                "title": "[分享]联想Y700成功升级12.2并驱动WIFI和蓝牙（更换为94352联想版），现分享EFI",
+                "uid": "4665187"
+            },
+            {
+                "author": "G25125",
+                "createTime": "2017-1-22",
+                "tid": "1731770",
+                "title": "[分享]【进一步完美】联想小新V1000，安装10.12.2几乎完美，特来分享！",
+                "uid": "4811330"
+            },
+            {
+                "author": "460990832",
+                "createTime": "2017-1-27",
+                "tid": "1732062",
+                "title": "[分享]Thinkpad T440p 吃上10.12",
+                "uid": "1221694"
+            },
+            {
+                "author": "13956737563",
+                "createTime": "2017-2-2",
+                "tid": "1732379",
+                "title": "[分享]联想小新v3000，g50-80，g40-80通用安装10.12各版本，分享",
+                "uid": "4725659"
+            },
+            {
+                "author": "loppol",
+                "createTime": "2017-2-8",
+                "tid": "1732731",
+                "title": "[分享][Guide] Thinkpad X1 CARBON(4th)/YOGA(6600U,CX20753,1080P,SM961) via Clover UEFI",
+                "uid": "3195259"
+            },
+            {
+                "author": "zhaochao520",
+                "createTime": "2017-2-15",
+                "tid": "1733179",
+                "title": "[分享]联想小新700基本完美分享",
+                "uid": "4811605"
+            },
+            {
+                "author": "402993662",
+                "createTime": "2017-2-18",
+                "tid": "1733410",
+                "title": "[分享]寒假更新！！E440 10.12\b十足的准备(2-18)",
+                "uid": "1536216"
+            },
+            {
+                "author": "寻我",
+                "createTime": "2017-2-20",
+                "tid": "1733484",
+                "title": "[分享]联想y50c成功啃上黑苹果。特来分享",
+                "uid": "4811524"
+            },
+            {
+                "author": "yanwxu",
+                "createTime": "2017-3-5",
+                "tid": "1734466",
+                "title": "[分享]小新700不完美EFI分享。",
+                "uid": "4808612"
+            },
+            {
+                "author": "TerryP",
+                "createTime": "2017-3-9",
+                "tid": "1734787",
+                "title": "[分享]功夫不负有心人，Thinkpad 黑将S5成功安装Sierra10.12.3",
+                "uid": "4811784"
+            },
+            {
+                "author": "reibo",
+                "createTime": "2017-3-23",
+                "tid": "1736135",
+                "title": "[原创内容]联想E50-80 i5-5200u hd5500 macos Sierra 10.12.2",
+                "uid": "157328"
+            },
+            {
+                "author": "39军小兵张",
+                "createTime": "2017-3-28",
+                "tid": "1736560",
+                "title": "[教程]联想Y410P HD4600 BCM94352HMB Clover安装黑苹果macOS Sierra 10.12.4全教程",
+                "uid": "4472739"
+            },
+            {
+                "author": "y010204025",
+                "createTime": "2017-3-28",
+                "tid": "1736569",
+                "title": "[交流]x220成功安装MacOS Sierra并升级到10.12.4(更新efi文件)",
+                "uid": "2995416"
+            },
+            {
+                "author": "曲终叶落",
+                "createTime": "2017-3-31",
+                "tid": "1736774",
+                "title": "[原创内容]联想Z400 成功升级10.12.4 EFI分享",
+                "uid": "3248107"
+            },
+            {
+                "author": "qq296015668",
+                "createTime": "2017-4-1",
+                "tid": "1736927",
+                "title": "[分享]E440成功安装10.12的一些经验",
+                "uid": "3244035"
+            },
+            {
+                "author": "♂水妖",
+                "createTime": "2017-4-5",
+                "tid": "1737297",
+                "title": "[分享]联想G480成功安装上10.12.4，附简单安装心得",
+                "uid": "2963300"
+            },
+            {
+                "author": "Aleric.Z.Justin",
+                "createTime": "2017-4-6",
+                "tid": "1737459",
+                "title": "[分享]Lenovo Y50-70 ISE 10.12.4分享",
+                "uid": "4597795"
+            },
+            {
+                "author": "杨春光8",
+                "createTime": "2017-4-7",
+                "tid": "1737582",
+                "title": "[分享]thinkpad E450 三卡驱动",
+                "uid": "4751102"
+            },
+            {
+                "author": "zc19920",
+                "createTime": "2017-4-9",
+                "tid": "1737818",
+                "title": "[分享]联想yoga710-14ikb成功安装黑苹果10.12.3且无损升级至10.12.4",
+                "uid": "1136115"
+            },
+            {
+                "author": "Emilelu",
+                "createTime": "2017-4-16",
+                "tid": "1738633",
+                "title": "[教程]联想 Y460N 成功安装 macOS Sierra 10.12.4",
+                "uid": "4426859"
+            },
+            {
+                "author": "Marty860",
+                "createTime": "2017-4-19",
+                "tid": "1738843",
+                "title": "[交流]联想 G400-i33110 尝试升级 10.12",
+                "uid": "4576353"
+            },
+            {
+                "author": "tchenkelvin",
+                "createTime": "2017-4-21",
+                "tid": "1739042",
+                "title": "[分享]联想T430可以在Sierra 12.4下面用的EFI",
+                "uid": "1013828"
+            },
+            {
+                "author": "yangtudou",
+                "createTime": "2017-5-9",
+                "tid": "1740446",
+                "title": "[分享]Thinkpad T440 10.12.4 80%",
+                "uid": "4632116"
+            },
+            {
+                "author": "zhaochao520",
+                "createTime": "2017-5-12",
+                "tid": "1740689",
+                "title": "[分享]联想 80SH 笔记本10.12.4基本完美",
+                "uid": "4811605"
+            },
+            {
+                "author": "以前是帥哥",
+                "createTime": "2017-5-19",
+                "tid": "1741316",
+                "title": "[分享]联想YOGA 500-15IBD  I5-5200U + HD5500  99% 完美",
+                "uid": "4614366"
+            },
+            {
+                "author": "y313131",
+                "createTime": "2017-5-19",
+                "tid": "1741431",
+                "title": "[分享]分享LenovoG40-70M CLover 装10.12.4的EFI文件以及最新的CLOVER软件",
+                "uid": "4812048"
+            },
+            {
+                "author": "HTC0319",
+                "createTime": "2017-5-20",
+                "tid": "1741535",
+                "title": "[分享]Y430p i7版完美Sierra（小白篇）",
+                "uid": "4812483"
+            },
+            {
+                "author": "记忆蓝调",
+                "createTime": "2017-5-21",
+                "tid": "1741883",
+                "title": "[分享]联想thinkpad e560 安装macOS10.12.5",
+                "uid": "625412"
+            },
+            {
+                "author": "ChupaChups",
+                "createTime": "2017-6-1",
+                "tid": "1743463",
+                "title": "[分享]LENOVO U31-70成功吃上10.12.5",
+                "uid": "4808170"
+            },
+            {
+                "author": "帝玄刹",
+                "createTime": "2017-6-2",
+                "tid": "1743714",
+                "title": "[分享]联想小新v4000完美黑果",
+                "uid": "4809784"
+            },
+            {
+                "author": "熊猫那年烧香",
+                "createTime": "2017-6-4",
+                "tid": "1743915",
+                "title": "[分享]联想G480安装Mac OS Sierra 10.12.5 成功分享驱动",
+                "uid": "4605877"
+            },
+            {
+                "author": "lecymeng",
+                "createTime": "2017-6-4",
+                "tid": "1743927",
+                "title": "[分享]联想昭阳 K20 安装10.12.4 99%完美（多图）",
+                "uid": "4157701"
+            },
+            {
+                "author": "小小丸子",
+                "createTime": "2017-6-4",
+                "tid": "1743991",
+                "title": "[分享]联想710s 7200u基本完成。",
+                "uid": "4818724"
+            },
+            {
+                "author": "shiy05",
+                "createTime": "2017-6-7",
+                "tid": "1744406",
+                "title": "[教程]联想拯救者14-i7-6700HQ, HD530成功安装sierra(10.12.5)，不断完善中",
+                "uid": "3044354"
+            },
+            {
+                "author": "YJNome",
+                "createTime": "2017-6-7",
+                "tid": "1744435",
+                "title": "[分享]LENOVO 小新 V2000 Bigger 版 macOS Sierra 10.12.5 成功",
+                "uid": "1342009"
+            },
+            {
+                "author": "非液化",
+                "createTime": "2017-6-11",
+                "tid": "1745173",
+                "title": "[交流]联想miix5安装成功，后续完善中",
+                "uid": "4816912"
+            },
+            {
+                "author": "烟抽走灵魂",
+                "createTime": "2017-6-15",
+                "tid": "1745816",
+                "title": "[分享]ThinkPad E430 安装 macOS Sierra 基本完美",
+                "uid": "4617915"
+            },
+            {
+                "author": "39军小兵张",
+                "createTime": "2017-6-25",
+                "tid": "1747285",
+                "title": "[教程]联想Y410P Clover安装升级黑苹果macOS High Sierra 10.13 beta",
+                "uid": "4472739"
+            },
+            {
+                "author": "wt67451347",
+                "createTime": "2017-6-26",
+                "tid": "1747524",
+                "title": "[分享]ThinkPad E460安装10.12.5macOS Sierra成功95%完美",
+                "uid": "3705478"
+            },
+            {
+                "author": "284517831",
+                "createTime": "2017-7-9",
+                "tid": "1749109",
+                "title": "[分享]联想U41-70完美黑苹果之旅",
+                "uid": "1208586"
+            },
+            {
+                "author": "飓风7494",
+                "createTime": "2017-7-11",
+                "tid": "1749371",
+                "title": "[交流]联想miix5啃黑成功，拆机换网卡，完成度95%，分享一下",
+                "uid": "4821458"
+            },
+            {
+                "author": "c106czs",
+                "createTime": "2017-7-11",
+                "tid": "1749384",
+                "title": "[分享]联想ideapad 500s 13isk 装macOS Sierra 10.12.5基本能用",
+                "uid": "4818236"
+            },
+            {
+                "author": "wq7516409",
+                "createTime": "2017-7-14",
+                "tid": "1749768",
+                "title": "[分享]thinkpad e530c 黑苹果efi分享，基本完美，就是内置麦克风无效，要用耳机",
+                "uid": "3863888"
+            },
+            {
+                "author": "yzc8882035",
+                "createTime": "2017-7-16",
+                "tid": "1750068",
+                "title": "[下载]联想Yoga3 11网卡更换后 98％完美10.12.5！！！",
+                "uid": "4822256"
+            },
+            {
+                "author": "353222885",
+                "createTime": "2017-7-18",
+                "tid": "1750267",
+                "title": "[分享]联想ThinkPad S430 10.12成功分享",
+                "uid": "2546302"
+            },
+            {
+                "author": "pengxinliang",
+                "createTime": "2017-7-18",
+                "tid": "1750309",
+                "title": "[分享]联想S41-75成功安装mac 10.12.5，只差无线网卡不能驱动，其他基本完美！",
+                "uid": "4748819"
+            },
+            {
+                "author": "gongzhen",
+                "createTime": "2017-7-20",
+                "tid": "1750467",
+                "title": "[教程]Miix 720 安装小记 for 10.12.6 [WIP]",
+                "uid": "961263"
+            },
+            {
+                "author": "兰亭遐想",
+                "createTime": "2017-7-20",
+                "tid": "1750484",
+                "title": "[分享]联想ThinkPad E431 macOS Sierra 10.12 安装全教程基本完美",
+                "uid": "4784474"
+            },
+            {
+                "author": "v037",
+                "createTime": "2017-7-21",
+                "tid": "1750620",
+                "title": "[分享]联想yoga 3 14 黑苹果安装配置分享",
+                "uid": "4574398"
+            },
+            {
+                "author": "sleepnet",
+                "createTime": "2017-7-21",
+                "tid": "1750631",
+                "title": "[分享]x220&amp;T420EFI文件分享，USB3.0和小红点正常使用",
+                "uid": "4444090"
+            },
+            {
+                "author": "释怀如初",
+                "createTime": "2017-7-23",
+                "tid": "1750867",
+                "title": "[教程]联想y470N成功安装10.12.6，clover安装教程和文件分享",
+                "uid": "4806351"
+            },
+            {
+                "author": "zero0a",
+                "createTime": "2017-7-24",
+                "tid": "1750962",
+                "title": "[分享]新安装的10.12.6 on Thinkpad w520 成功 hd3000",
+                "uid": "1348590"
+            },
+            {
+                "author": "a1055126159",
+                "createTime": "2017-7-25",
+                "tid": "1751206",
+                "title": "[分享]Lenovo G480 20156版 安装 macOS Sierra 10.12.6 成功",
+                "uid": "4185505"
+            },
+            {
+                "author": "tony_weibs",
+                "createTime": "2017-7-27",
+                "tid": "1751270",
+                "title": "[分享]成功升级ThinkPad T510笔记本为10.12.6（一代核显）",
+                "uid": "1056542"
+            },
+            {
+                "author": "congzi9797",
+                "createTime": "2017-7-27",
+                "tid": "1751412",
+                "title": "[原创内容]拯救者15isk i5进取版升级macOS Sierra 10.12.6 成功",
+                "uid": "4743580"
+            },
+            {
+                "author": "筱少爷",
+                "createTime": "2017-7-28",
+                "tid": "1751453",
+                "title": "[交流]联想Y700的i5款黑苹果",
+                "uid": "4818123"
+            },
+            {
+                "author": "room制作",
+                "createTime": "2017-7-27",
+                "tid": "1751499",
+                "title": "[分享]联想IdeaPad 310S-14IKB i5-7200u安装Sierra基本完成",
+                "uid": "2896005"
+            },
+            {
+                "author": "sleepnet",
+                "createTime": "2017-8-1",
+                "tid": "1752034",
+                "title": "[教程]Lenovo T420 Clover引导安装黑苹果(x220和t520也适用)",
+                "uid": "4444090"
+            },
+            {
+                "author": "btwise",
+                "createTime": "2017-8-1",
+                "tid": "1752094",
+                "title": "[分享]基于HOTPATCH3.1的THINKPAD黑苹果系列完美EFI",
+                "uid": "121734"
+            },
+            {
+                "author": "MemX",
+                "createTime": "2017-8-3",
+                "tid": "1752324",
+                "title": "[原创内容]YOGA13 成功安装10.13______By：青春启示录",
+                "uid": "4592702"
+            },
+            {
+                "author": "sleepnet",
+                "createTime": "2017-8-7",
+                "tid": "1752853",
+                "title": "[教程]Lenovo T460 Clover引导安装黑苹果(t560也适用)",
+                "uid": "4444090"
+            },
+            {
+                "author": "萨拉斯",
+                "createTime": "2017-8-9",
+                "tid": "1753193",
+                "title": "[原创内容]联想ideapad300-15isk黑苹果成功",
+                "uid": "4823915"
+            },
+            {
+                "author": "miniice_os",
+                "createTime": "2017-8-10",
+                "tid": "1753332",
+                "title": "[教程]联想Y430P 10.12.6黑苹果指南教程",
+                "uid": "4824448"
+            }
+        ],
+        "MSI": [
+            {
+                "author": "生个猴子",
+                "createTime": "2016-10-24",
+                "tid": "1723356",
+                "title": "[分享]微星MSI GE 72 10.12macOS Sierra分享",
+                "uid": "4809396"
+            },
+            {
+                "author": "lx23",
+                "createTime": "2016-11-8",
+                "tid": "1725774",
+                "title": "[分享]微星 MSI GT72S 10.12.1 基本完美",
+                "uid": "4777411"
+            },
+            {
+                "author": "ls900919",
+                "createTime": "2016-11-11",
+                "tid": "1726293",
+                "title": "[交流]微星 GE60 2PG MAC10.12分享EFI分区文件",
+                "uid": "3055662"
+            },
+            {
+                "author": "weryis",
+                "createTime": "2016-11-22",
+                "tid": "1728115",
+                "title": "[教程]微星GS70 升级安装macOS Sierra 全记录",
+                "uid": "3706633"
+            },
+            {
+                "author": "cjy23",
+                "createTime": "2016-12-11",
+                "tid": "1728892",
+                "title": "[分享]【MSI 16f3/GT60】音频/亮度/电量/休眠/USB基本正常",
+                "uid": "3096465"
+            },
+            {
+                "author": "weishihai4510",
+                "createTime": "2017-1-6",
+                "tid": "1730457",
+                "title": "[分享]微星MSI B150 krait GAMING 10.12.2 EFI文件分享",
+                "uid": "2468766"
+            },
+            {
+                "author": "lijiqiang",
+                "createTime": "2017-1-12",
+                "tid": "1731029",
+                "title": "[分享]微星ge60前来分享，百分之90完美",
+                "uid": "4771308"
+            },
+            {
+                "author": "王松果",
+                "createTime": "2017-2-16",
+                "tid": "1733241",
+                "title": "[分享]分享下微星（MSI）GP62 6QG-1071XCN笔记本的EFI",
+                "uid": "3225729"
+            },
+            {
+                "author": "王松果",
+                "createTime": "2017-2-19",
+                "tid": "1733453",
+                "title": "[分享]微星（MSI）GP62 6QG-1071XCN安装10.12.2基本完美",
+                "uid": "3225729"
+            },
+            {
+                "author": "bin430",
+                "createTime": "2017-4-7",
+                "tid": "1737566",
+                "title": "[分享]微星（MSI）GE62 6QD 安装黑苹果10.12.4",
+                "uid": "2368166"
+            },
+            {
+                "author": "bin430",
+                "createTime": "2017-4-29",
+                "tid": "1739711",
+                "title": "[分享]GS60 6QE UHD(4K)基本完美10.12.4",
+                "uid": "2368166"
+            },
+            {
+                "author": "Spxg",
+                "createTime": "2017-4-30",
+                "tid": "1739802",
+                "title": "[分享]微星GP62 2QE-275XCN 10.12.4黑果EFI分享",
+                "uid": "4805747"
+            },
+            {
+                "author": "wang582470118",
+                "createTime": "2017-5-19",
+                "tid": "1741447",
+                "title": "[分享]MSI微星GP62-6QD-1281CN百分之95完美，分享驱动和配置文件",
+                "uid": "3536954"
+            },
+            {
+                "author": "活在梦里",
+                "createTime": "2017-7-12",
+                "tid": "1749596",
+                "title": "[分享]微星GE60 2PL 10.12.5安装分享及HDMI视频输出交流",
+                "uid": "4577322"
+            }
+        ],
+        "Others": [
+            {
+                "author": "303734056",
+                "createTime": "2016-7-4",
+                "tid": "1699160",
+                "title": "[分享]ENZ C16B 10.12 clover",
+                "uid": "4743356"
+            },
+            {
+                "author": "guoyan6914685",
+                "createTime": "2016-9-23",
+                "tid": "1716292",
+                "title": "[分享]蓝天P170SMA成功安装10.12clover双系统，除个别bug，接近完美",
+                "uid": "4694295"
+            },
+            {
+                "author": "onejune",
+                "createTime": "2016-9-24",
+                "tid": "1716558",
+                "title": "[分享]未来人类（地球人）P150EM 10.12 完美运行！",
+                "uid": "1587024"
+            },
+            {
+                "author": "siwangzai",
+                "createTime": "2016-10-9",
+                "tid": "1720914",
+                "title": "[分享]机械革命x3升级版，11.12升级完成，显卡，声卡，网卡，睡眠，近乎完美了",
+                "uid": "2741716"
+            },
+            {
+                "author": "shuiliyue",
+                "createTime": "2016-10-17",
+                "tid": "1722264",
+                "title": "[分享]麦本本-黑麦macOS10.12简要安装教程",
+                "uid": "1236118"
+            },
+            {
+                "author": "snake_110",
+                "createTime": "2016-10-21",
+                "tid": "1722883",
+                "title": "[教程]【再次回报社会】炫龙毁灭者DC/蓝天CloverW650DC 驱动全分享",
+                "uid": "1959678"
+            },
+            {
+                "author": "absences",
+                "createTime": "2016-10-22",
+                "tid": "1723003",
+                "title": "[原创内容]雷神笔记G170SA、HD4600安装成功，声卡网卡正常",
+                "uid": "4791594"
+            },
+            {
+                "author": "wsm134",
+                "createTime": "2016-10-28",
+                "tid": "1724123",
+                "title": "[分享]飞行堡垒fx plus安装10.12的EFI",
+                "uid": "4809303"
+            },
+            {
+                "author": "x6002z",
+                "createTime": "2016-11-6",
+                "tid": "1725508",
+                "title": "[原创内容]雷神G150th成功。基本完美。。",
+                "uid": "1616054"
+            },
+            {
+                "author": "rlyt",
+                "createTime": "2016-11-9",
+                "tid": "1725944",
+                "title": "[分享]p6xxRx 神州 战神 z7 d3 s3 s4 \bosx 10.12.1 分享，\b970m独显，睡眠ok",
+                "uid": "685159"
+            },
+            {
+                "author": "东骧神骏",
+                "createTime": "2016-12-18",
+                "tid": "1729321",
+                "title": "[原创内容]苏菲Surface Pro 4 i7 Iris 540 版本 Sierra 10.12.2 (16C67) 全套配置驱动分享",
+                "uid": "4333710"
+            },
+            {
+                "author": "rilll",
+                "createTime": "2016-12-29",
+                "tid": "1729941",
+                "title": "[原创内容]雷神G150S-42108G1T950M 装10.12 99%完美分享",
+                "uid": "4418375"
+            },
+            {
+                "author": "mikeki",
+                "createTime": "2017-2-8",
+                "tid": "1732686",
+                "title": "[分享]唯尚达6代HD520笔记本10.12.2安装过程",
+                "uid": "4666921"
+            },
+            {
+                "author": "qq517538852",
+                "createTime": "2017-3-12",
+                "tid": "1735055",
+                "title": "[分享]小米笔记本13.3完美黑果",
+                "uid": "1822106"
+            },
+            {
+                "author": "丿魅族丨灬琪",
+                "createTime": "2017-3-14",
+                "tid": "1735234",
+                "title": "[分享]分享Air book 系统引导！",
+                "uid": "3940493"
+            },
+            {
+                "author": "renyuaner",
+                "createTime": "2017-3-19",
+                "tid": "1735785",
+                "title": "[分享]富士通LH531笔记本完美升级10.12",
+                "uid": "3309410"
+            },
+            {
+                "author": "谷谷科技",
+                "createTime": "2017-4-10",
+                "tid": "1738012",
+                "title": "[分享]雷神G150-MG安装Sierra 10.12.4分享！",
+                "uid": "4642498"
+            },
+            {
+                "author": "黑主辉阎",
+                "createTime": "2017-4-14",
+                "tid": "1738413",
+                "title": "[分享]暗影精灵2Plus 可安装EFI分享",
+                "uid": "4045009"
+            },
+            {
+                "author": "thirson",
+                "createTime": "2017-5-20",
+                "tid": "1741502",
+                "title": "[原创内容]Surface Pro 3 + macOS 10.12.5 接近完美配置分享",
+                "uid": "3740970"
+            },
+            {
+                "author": "hswwm",
+                "createTime": "2017-6-2",
+                "tid": "1743706",
+                "title": "[原创内容]昂达v919 corem 安装10.12/10.11/ubuntu/win10多系统并存成功",
+                "uid": "3493534"
+            },
+            {
+                "author": "记忆蓝调",
+                "createTime": "2017-6-7",
+                "tid": "1744405",
+                "title": "[分享]雷神ST I7 6700安装macOS10.12.5",
+                "uid": "625412"
+            },
+            {
+                "author": "595953427",
+                "createTime": "2017-6-8",
+                "tid": "1744561",
+                "title": "[分享]炫龙毁灭者DC Pro i5 7400完美安装10.12.5",
+                "uid": "2246050"
+            },
+            {
+                "author": "moshuixin123",
+                "createTime": "2017-6-11",
+                "tid": "1745076",
+                "title": "[分享]谷歌Chromebook pixel 2013 64G成功上10.13",
+                "uid": "1311460"
+            },
+            {
+                "author": "好设之徒",
+                "createTime": "2017-6-19",
+                "tid": "1746412",
+                "title": "[分享]麦本本-大麦3S ，10.12.5、10.13安装完成",
+                "uid": "847228"
+            },
+            {
+                "author": "nsthy",
+                "createTime": "2017-7-1",
+                "tid": "1748132",
+                "title": "[分享]P775DM2 10.12.5 90%完美驱动",
+                "uid": "3347759"
+            },
+            {
+                "author": "15076314250",
+                "createTime": "2017-7-6",
+                "tid": "1748790",
+                "title": "[分享]小米笔记本air 12.5 MAC OS 10.12.5",
+                "uid": "4567149"
+            },
+            {
+                "author": "吴得到",
+                "createTime": "2017-7-7",
+                "tid": "1748950",
+                "title": "[分享]麦本本-小麦4安装macOS Sierra10.12.5成功分享",
+                "uid": "2994876"
+            },
+            {
+                "author": "交叠的暗黑",
+                "createTime": "2017-7-11",
+                "tid": "1749431",
+                "title": "[教程]haier凌越s4成功驱动暂记",
+                "uid": "3467796"
+            },
+            {
+                "author": "flyinglxc",
+                "createTime": "2017-7-22",
+                "tid": "1750758",
+                "title": "[原创内容]台电X3pro成功玩上Sierra，USB磁盘外置当硬盘启动成功",
+                "uid": "299822"
+            }
+        ],
+        "Samsung": [
+            {
+                "author": "a1379388505",
+                "createTime": "2016-10-4",
+                "tid": "1720002",
+                "title": "[分享]三星7系平板 XQ701T1A，700T，XE700T1A 整个EFI",
+                "uid": "656272"
+            }
+        ],
+        "Sony": [
+            {
+                "author": "muziling",
+                "createTime": "2016-10-29",
+                "tid": "1724140",
+                "title": "[教程]来说说我的sony vpcea28ec黑苹果方法吧，显卡ati5650，声卡ALC269",
+                "uid": "442053"
+            },
+            {
+                "author": "328396264",
+                "createTime": "2016-12-28",
+                "tid": "1729858",
+                "title": "[分享]sony SVS131100C 安装Sierra成功分享",
+                "uid": "2087263"
+            },
+            {
+                "author": "lcarolyn",
+                "createTime": "2017-6-5",
+                "tid": "1744144",
+                "title": "[分享]sony vaio E14P驱动更新，支持10.12.5",
+                "uid": "537163"
+            }
+        ],
+        "Toshiba": [
+            {
+                "author": "aukomn",
+                "createTime": "2016-12-28",
+                "tid": "1729888",
+                "title": "[分享]东芝C40-a吃上了10.12,驱动hd4000,分享config.list",
+                "uid": "2292854"
+            },
+            {
+                "author": "ljg-pcbeta",
+                "createTime": "2017-6-24",
+                "tid": "1747205",
+                "title": "[分享]东芝Satellite M800安装Sierra 10.12.5成功，分享驱动",
+                "uid": "723618"
+            },
+            {
+                "author": "g4222",
+                "createTime": "2017-7-11",
+                "tid": "1749355",
+                "title": "[分享]东芝M800-T09B安装10.13变色龙引导仅差睡眠",
+                "uid": "2480205"
+            },
+            {
+                "author": "disontsie",
+                "createTime": "2017-8-1",
+                "tid": "1752069",
+                "title": "[分享]东芝Sattelite-L800 10.12.6基本完美（除显卡）",
+                "uid": "4456603"
+            }
+        ]
+    },
+    "lastUpdateThread": "1753468",
+    "lastUpdateTime": "2017-8-11"
+}
