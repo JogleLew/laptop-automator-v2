@@ -18,7 +18,7 @@ use `python main.py` to run the bot
 
 When the bot is running, you can see all the instructions by sending `/help` to the bot.  
 
-## Configuraion
+## Configuration
 
 the folder `config` should be placed in the same folder as the file `main.py`.
 
